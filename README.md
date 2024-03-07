@@ -1,7 +1,7 @@
 # Hanoi-Tower-Unity
 
 **The game "Hanoi Towers"**
-"Hanoi Towers" is a classic puzzle game featuring towers with disks of different sizes that need to be moved from one tower to another, following the rules: only one disk can be moved at a time, and the disk must always be on a disk larger than it. The main goal is to move all the disks from the first tower to the last, using the intermediate towers, in as few moves as possible.
+is a classic puzzle game featuring towers with disks of different sizes that need to be moved from one tower to another, following the rules: only one disk can be moved at a time, and the disk must always be on a disk larger than it. The main goal is to move all the disks from the first tower to the last, using the intermediate towers, in as few moves as possible.
 
 Features of the game:
 Configurable number of disks: Players can choose the number of disks from 3 to 9 to test their management skills in different difficulty levels.
