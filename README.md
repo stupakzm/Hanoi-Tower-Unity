@@ -14,5 +14,10 @@ Mouse control: The game is controlled with the mouse. Pressing the right mouse b
 
 Timer: The game has a built-in timer that records the time spent solving the puzzle. This allows players to test their time management skills and compete for records.
 
+*How it works
+![How it works](https://github.com/stupakzm/Hanoi-Tower-Unity/blob/main/Hanoi%20Tower/Hanoi-Tower-Operation.gif)
+
+Try to play the game at https://stupak.itch.io/tower-of-hanoi
+
 Purpose:
 The Hanoi Towers game is designed for those who love the challenge of puzzles and are looking to improve their logical and strategic skills. It is also ideal for those who are looking for a way to spend time with benefit and pleasure.
