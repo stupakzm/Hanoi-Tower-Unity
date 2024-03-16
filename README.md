@@ -17,7 +17,7 @@ Timer: The game has a built-in timer that records the time spent solving the puz
 *How it works
 ![How it works](https://github.com/stupakzm/Hanoi-Tower-Unity/blob/main/Hanoi%20Tower/Hanoi-Tower-Operation.gif)
 
-Try to play the game at https://stupak.itch.io/tower-of-hanoi
+Play the game at https://stupak.itch.io/tower-of-hanoi
 
 Purpose:
 The Hanoi Towers game is designed for those who love the challenge of puzzles and are looking to improve their logical and strategic skills. It is also ideal for those who are looking for a way to spend time with benefit and pleasure.
